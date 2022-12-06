@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>11Notify</title>
+    <link rel="stylesheet" type="text/css" href="11n.css">
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+</head>
+<body>
+    <header id="main-header">
+        <img class="resize-logo" src="./11NOTIFY__1_-removebg-preview.png" alt="">
+        <a href="https://dashboard.11notify.co.uk/">
+            <button class="dash-button">DASHBOARD</button>
+        </a>
+        <section>
+            <nav id="menu-bar1">
+                <a href="#features">Features</a>
+                <a href="#pricing">Pricing</a>
+                <a href="#why">Why 11n?</a>
+                <a href="#success">Success</a>
+                <a href="#contact">Contact us</a>
+            </nav>
+        </section>
+    </header>
+
+    <!-- <nav id="nav-bar">
+        <div class="container">
+            <ul>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#dashboard">Dashboard</a></li>
+                <li><a href="#signup">Sign Up</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#FAQ">FAQ</a></li>
+            </ul>
+        </div>
+    </nav> -->
+
+    <section id="showcase">
+    <div class="container">
+        <h1>11Notify, the stellar cookgroup for all your needs.</h1>
+        <h2>Only £20 a month, why wait?</h2>
+        <a href="https://buy.stripe.com/28oaFfcEhcbv0xOdQR">
+            <button type="submit" class="join-button">JOIN NOW</button>
+        </a>
+    </div>
+    </section>
+    
+    <div class="container">
+        <section id="welcome">
+            <h1>WELCOME</h1>
+            <p>11Notify is the premium cookgroup that you need in your life, we are based on Whatsapp and Discord, and we amalgamate both platforms flawlessly. We are laser focused on providing you the best tools and information, so you can make as much money as possible!</p>
+        </section>
+    </div>
+
+    <div class="outer-cards">
+        <section id="main">
+            <h1 id="features">Features we provide</h1>
+                <div class="inner-cards">
+                    <h3>Monitors</h3>
+                    <p>We have lightning fast monitors, for every site under the sun, our members cop way before the rest on sites like Offspring, Office, End and many more. Our members coop everything from shoes, to PS5s, even GPUs with our rapid monitors. All custom made, so you know it's us when all the stock is gone</p>
+                </div>
+                <div class="inner-cards">
+                    <h3>Crypto</h3>
+                    <p>We have in house crypto experts, who have studied the markets professionally in the past, and the signals they send out, are nothing short of extremely profitable! Members in the past have made up to 200% ROI with out crypto calls, all unique to 11Notify, and the signal is always on point.</p>
+                </div>
+                <div class="inner-cards">
+                    <h3>Instore</h3>
+                    <p>Do you ever wonder when your local stores drop sneakers? Well we have the answer to that. We have access to exclusive information about when shoes drop, and where, and you also have access to that information once you join 11Notify, our members check the pings, get to the store, and walk out with profit!</p>
+                </div>
+        </section>
+    </div>
+
+    <div class="outer-cards">
+        <section id="main">
+            <h1 id="pricing">Pricing</h1>
+            <div class="inner-cards">
+                <h3>Monthly</h3>
+                <h4>£20 a month<br>Most competitive price for the highest quality cookgroup!</h4>
+                <a href="https://buy.stripe.com/28oaFfcEhcbv0xOdQR">
+                    <button type="submit" class="joincards-button">JOIN NOW</button>
+                </a>
+            </div>
+            <div class="inner-cards">
+                <h3>Bi-Annually</h3>
+                <h4>Pay for 5 months of membership<br>Get the 6th month free!</br></h4>
+                <a href="https://buy.stripe.com/7sIfZzcEh6Rb6WcaEH">
+                    <button type="submit" class="joincards-button">JOIN NOW</button>
+                </a>
+            </div>
+            <div class="inner-cards">
+                <h3>Annually</h3>
+                <h4>Pay for 11 months of membership<br>Get the 12th month free!</br></h4>
+                <a href="https://buy.stripe.com/5kA6oZ47LfnH94k002">
+                    <button type="submit" class="joincards-button">JOIN NOW</button>
+                </a>
+            </div>
+        </section>
+    </div>
+
+    <!-- <section>
+        <div class="container">
+            <h1>Testimonials</h1>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente officiis ipsa neque. Corporis blanditiis minima consequuntur soluta nostrum eius vero, libero repellendus velit possimus iusto harum natus cumque dolorem error.</p>
+        </div>
+    </section> -->
+
+    <section id="main-successpix">
+        <h1 id="success">Some success from our members...</h1>
+        <div class="wrapper">
+            <div class="carousel owl-carousel">
+                <div>
+                    <img class="img-resize" src="./185836123_503170517707540_7091793816129184502_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./186484535_4225418090829425_4287572371090623353_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./242023803_399057998451009_8205284739463061148_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./287480290_1244184283041232_394171034261733701_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./273523798_315225203900534_3973213248849111358_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./277151711_139755505214623_2763489572969942731_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./289430575_1051769392137293_2316486215775145214_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./289440679_365472925689255_1920966872821111930_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./296107257_626339955875979_3546700920855842810_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./296107257_626339955875979_3546700920855842810_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./296249607_112773381514478_3708743217273701069_n.jpg" alt="">
+                </div>
+                <!-- <div>
+                    <img class="img-resize" src="./185836123_503170517707540_7091793816129184502_n.jpg" alt="">
+                </div>
+                <div>
+                    <img class="img-resize" src="./185836123_503170517707540_7091793816129184502_n.jpg" alt="">
+                </div> --> <!-- add more pictures here !!!!! -->
+            </div>
+        </div>
+    </section>
+    <script>
+         $(".carousel").owlCarousel({
+           margin: 20,
+           loop: true,
+           autoplay: true,
+           autoplayTimeout: 2000,
+           autoplayHoverPause: true,
+           responsive: {
+             0:{
+               items:1,
+               nav: false
+             },
+             600:{
+               items:2,
+               nav: false
+             },
+             1000:{
+               items:4,
+               nav: false
+             },
+           }
+         });
+      </script>
+
+    <section id="main-whychooseus">
+        <h1 id="why">Why choose us?</h1>
+        <div class="div-choose">
+            <div class="choose-ul">
+                <ul>
+                    <li>The fastest custom made monitors.</li>
+                    <li>The first group to be Whatsapp integrated.</li>
+                    <li>Amazing community for everyone to be a part of.</li>
+                    <li>First to ping instore information.</li>
+                    <li>Major groupbuys with massive bots and proxy companies.</li>
+                    <li>Incredible ACO and Slots for the most in-demand sneakers.</li>
+                    <li>Crypto and Stocks signals weekly, and always profitable.</li>
+                    <li>Amazing support staff, available around the clock just to help you.</li>
+                    <li>A massive selection of tools to help you become a better reseller.</li>
+                    <li>Live classes on how to bot, and other topics.</li>
+                    <li>Very active marketplace, where you can buy and sell, and confirm deals within seconds!</li>
+                    <li>ONLY £20 A MONTH!</li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <footer id="main-footer">
+        <h1 id="contact">Contact us</h1>
+        <a href="https://www.instagram.com/11notify/">Instagram</a>
+        <a href="https://twitter.com/11notify?lang=en-GB">Twitter</a>
+        <a>elevennotify@gmail.com</a>
+    </footer>
+
+    <div class="box">
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+</body>
+</html>
+
+<script type="text/javascript">
+    function openFunction(){
+     document.getElementById("menu").style.width="300px";
+     document.getElementById("mainbox").style.marginLeft="300px";
+    }
+
+   function closeFunction(){
+    document.getElementById("menu").style.width="0px";
+    document.getElementById("mainbox").style.marginLeft="0px";
+    document.getElementById("mainbox").innerHTML="&#9776; Open";
+   }
+   </script>
